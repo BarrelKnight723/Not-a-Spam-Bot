@@ -1,4 +1,4 @@
-A spam bot that will probably get you banned. Pure annoyance.
+A spam bot that will probably get you banned.
 
 **Invite Link:** https://discord.com/oauth2/authorize?client_id=908924232199708733&scope=bot&permissions=3072
 
