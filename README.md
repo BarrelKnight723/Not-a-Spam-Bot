@@ -4,4 +4,4 @@ A spam bot that will probably get you banned.
 
 **Replit:** https://replit.com/@GarvBanerji/Not-a-Spam-Bot?v=1
 
-**IMPORTANT:** Please note that I have coded in Replit and that is you are doing this natively you might need to make some changes.
+**IMPORTANT:** Please note that I have used Replit and that if you are doing this natively you might need to make some changes.
